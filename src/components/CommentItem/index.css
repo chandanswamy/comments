@@ -27,3 +27,18 @@
 }
 
 /* Write your CSS here */
+.comment-item {
+  list-style: none;
+}
+
+.name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.first-letter {
+  margin: 0px;
+  height: 40px;
+  width: 40px;
+}
